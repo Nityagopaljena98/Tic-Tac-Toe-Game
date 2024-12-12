@@ -51,4 +51,4 @@ Welcome to the Tic Tac Toe Game, a simple yet engaging implementation of the cla
 
 ## Acknowledgments
 
-- [React.js Documentation]('https://react.dev/learn'): For comprehensive guides and examples.
+- [React.js Documentation](https://react.dev/learn): For comprehensive guides and examples.
